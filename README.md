@@ -1,6 +1,6 @@
-# noclaw
-
 <img src="logo.png" alt="noclaw logo" width="100" />
+
+# noclaw
 
 The smallest it can be.
 
