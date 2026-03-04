@@ -1,5 +1,7 @@
 # noclaw
 
+<img src="logo.png" alt="noclaw logo" width="100" />
+
 The smallest it can be.
 
 ## Usage
