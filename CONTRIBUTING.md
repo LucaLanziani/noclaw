@@ -1,0 +1,1 @@
+Pull requests that attempt to make noclaw do actual work will be immediately closed and reported to the laziness police.
